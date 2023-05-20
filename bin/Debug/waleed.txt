@@ -1,0 +1,160 @@
+
+SCHEDULE NUMBER 1
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 2
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 3
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 10:00 - 13:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 4
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 11:00 - 14:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 5
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 6
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 7
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 10:00 - 13:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 8
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 11:00 - 14:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 9
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 10
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 11
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 10:00 - 13:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 12
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+CSE333 - 2023-02-19 - 11:00 - 14:00 - WALEED, KHALID
+=====================
+
+SCHEDULE NUMBER 13
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 14
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 15
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 08:00 - 11:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 16
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 17
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 18
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 09:00 - 12:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 11:00 - 14:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 19
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 10:00 - 13:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 08:00 - 11:00 - ABDULLAH, KHALID
+=====================
+
+SCHEDULE NUMBER 20
+COURSE NAME - Date - Start Time - End Time - Students
+=====================
+CSE353 - 2023-02-18 - 08:00 - 10:00 - WALEED, AHMAD
+CSE333 - 2023-02-19 - 10:00 - 13:00 - WALEED, KHALID
+CSE343 - 2023-02-18 - 10:00 - 13:00 - ABDULLAH, KHALID
+=====================

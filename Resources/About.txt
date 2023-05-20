@@ -1,0 +1,14 @@
+====== ( Exam Scheduler X Credit ) ======
+|  Coded By WALEED ALHARBI AKA W4L33Dx  |
+|  Language : VB.NET                    |
+|---------------------------------------|
+| This Project is madded For University |
+| Of Hafr AlBatin Programming Challenge |
+|---------------------------------------|
+|      Hope You Like The Program        |
+|---------------------------------------|
+| For Contacting :                      |
+| Mobile NO : 0538766387                |
+| Twitter   : @W4L33Dx                  |
+| EMAIL     : W4L33Dx@gmail.com         |
+|---------------------------------------|

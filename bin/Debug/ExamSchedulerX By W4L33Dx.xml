@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExamSchedulerX By W4L33Dx
+</name>
+</assembly>
+<members>
+<member name="T:ExamSchedulerX_By_W4L33Dx.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.My.Resources.Resources.About">
+<summary>
+  Looks up a localized string similar to ====== ( Exam Scheduler X Credit ) ======
+|  Coded By WALEED ALHARBI AKA W4L33Dx  |
+|  Language : VB.NET                    |
+|---------------------------------------|
+| This Project is madded For University |
+| Of Hafr AlBatin Programming Challenge |
+|---------------------------------------|
+|      Hope You Like The Program        |
+|---------------------------------------|
+| For Contacting :                      |
+| Mobile NO : 0538766387                |
+| Twitter   : @W4L33Dx                  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.My.Resources.Resources.avatar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="F:ExamSchedulerX_By_W4L33Dx.FlatAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ExamSchedulerX_By_W4L33Dx.FlatAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:ExamSchedulerX_By_W4L33Dx.WaterFX.effectTimer_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Timer handler
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ExamSchedulerX_By_W4L33Dx.WaterFX.WaterEffectControl_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+ <summary>
+ Paint handler
+ 
+ Calculates the final effect-image out of
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ExamSchedulerX_By_W4L33Dx.WaterFX.ProcessWaves">
+ <summary>
+ This is the method that actually does move the waves around and simulates the
+ behaviour of water.
+ </summary>
+</member>
+<member name="M:ExamSchedulerX_By_W4L33Dx.WaterFX.PutDrop(System.Int32,System.Int32,System.Int16)">
+ <summary>
+ This function is used to start a wave by simulating a round drop
+ </summary>
+ <param name="x">x position of the drop</param>
+ <param name="y">y position of the drop</param>
+ <param name="height">Height position of the drop</param>
+</member>
+<member name="M:ExamSchedulerX_By_W4L33Dx.WaterFX.WaterEffectControl_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ The MouseMove handler.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.WaterFX.ImageBitmap">
+ <summary>
+ Our background image
+ </summary>
+</member>
+<member name="P:ExamSchedulerX_By_W4L33Dx.WaterFX.Scale">
+ <summary>
+ The scale of the wave matrix compared to the size of the image.
+ Use it for large images to reduce processor load.
+ 
+ 0 : wave resolution is the same than image resolution
+ 1 : wave resolution is half the image resolution
+ ...and so on
+ </summary>
+</member>
+</members>
+</doc>
