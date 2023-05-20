@@ -5,5 +5,5 @@
 ## Language : VB.NET
 # For Contacting :
 ### Twitter : @W4L33Dx
-### Linkding : W4L33Dx
+### Linkdin : W4L33Dx
 ### Discord : W4L33Dx#0700
